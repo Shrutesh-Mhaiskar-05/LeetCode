@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
