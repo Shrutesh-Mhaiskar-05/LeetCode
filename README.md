@@ -89,8 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0155-min-stack) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
