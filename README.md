@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
