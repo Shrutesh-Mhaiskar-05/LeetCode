@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0217-contains-duplicate) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Shrutesh-Mhaiskar-05/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
